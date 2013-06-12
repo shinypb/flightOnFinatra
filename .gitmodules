@@ -1,0 +1,4 @@
+[submodule "flight"]
+	path = flight
+	url = https://github.com/twitter/flight.git
+	branch = gh-pages
